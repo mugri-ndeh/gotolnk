@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.dohtechsolutions.buzme",
+      "sha256_cert_fingerprints":
+      ["CA:D6:C0:83:47:BC:7C:E1:2F:21:75:C2:07:2E:AE:C6:6C:AB:38:68:46:64:85:86:A8:C8:6C:59:47:3A:23:35"]
+    }
+  }]
+  
